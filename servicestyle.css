@@ -1,0 +1,83 @@
+#number, #account, #amount, #submit, #mail {display: none;}
+
+#wrapper { 
+	width: 25em;
+	margin: 0 auto;
+	background-color:#AED1D6 ; 
+	text-align: center; 
+	vertical-align: center;
+	width: 400px;
+	height: auto;
+}
+
+#form { 
+	margin: 20%;
+	margin-bottom: 10%;
+	display: inline-block;
+	text-align: center; 
+	align-items: center;
+	justify-content: center;
+}
+
+.button {
+	color: white;
+	font-size: 16px;
+	background-color: #550000;
+}
+
+#submit-button {
+	background-color: #22AA22;
+	border: none;
+	color: white;
+	padding: 10px 16px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+#logout {
+	background-color: #AA0000;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+#backbtn {
+	background-color: #00AA00;
+	border: none;
+	color: white;
+	padding: 5px 11px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-bottom: 5%;
+	border-radius: 20px;
+}
+
+th, td {
+	border-bottom: 1px solid #ddd;
+	padding: 8px 8px;
+}
+
+table {
+	text-align: center;
+	display: inline-block;
+	padding: 20px 20px;
+	padding-top:0px;
+} 
